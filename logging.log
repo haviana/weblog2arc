@@ -1,0 +1,3 @@
+2016-01-07 15:23:33 DEBUG App:20 - Hello World!
+2016-01-07 15:23:33 WARN  App:21 - warning
+2016-01-07 15:23:33 ERROR App:22 - error
